@@ -4,7 +4,7 @@ local Creator = loadstring(game:HttpGet("https://raw.githubusercontent.com/MuhXd
 
 local entity = Creator.createEntity({
     CustomName = "R!iaro#x&pper", -- Custom name of your entity
-    Model = "https://github.com/Lamentov/Lamentov/blob/main/R!iaro%23x%26pper.rbxm", -- Can be GitHub file or rbxassetid
+    Model = "rbxassetid://113977113930596", -- Can be GitHub file or rbxassetid
     Speed = 120, -- Percentage, 100 = default Rush speed
     DelayTime = 5, -- Time before starting cycles (seconds)
     HeightOffset = 1,
