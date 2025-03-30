@@ -43,7 +43,6 @@ function CustomGitSound(soundlink, vol, filename)
 end
 
 CustomGitSound("https://raw.githubusercontent.com/Lamentov/Lamentov/main/GLITCHED%20REBOUND%20JUMPSCARE.mp3", 1, "Scare")
-wait(2)
     
         task.spawn(function()
             while JumpscareGui.Parent do
